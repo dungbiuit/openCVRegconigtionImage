@@ -11,15 +11,15 @@
 
 ### Giao việc
 **Chung**
-[ ] Tìm hiểu thuật toán SIFT
+- [ ] Tìm hiểu thuật toán SIFT
 
 **Biu**
-[ ] Code thuật toán SIFT để rút trích đặc trưng
+- [ ] Code thuật toán SIFT để rút trích đặc trưng
 
 **Đăng**
-[ ] Thử xem Tkinker và vẽ giao diện cho chương trình
+- [ ] Thử xem Tkinker và vẽ giao diện cho chương trình
 
 ### Nguồn tham khảo
 - [SIFT lý thuyết và code](https://viblo.asia/p/sift-scale-invariant-feature-transform-huan-luyen-mo-hinh-cho-cac-bai-toan-phan-loai-924lJqJaZPM)
-- [Clip code SIFT Youtube] (https://www.youtube.com/watch?v=USl5BHFq2H4)
+- [Clip code SIFT Youtube](https://www.youtube.com/watch?v=USl5BHFq2H4)
 - [Clip lập trình Tkinker](https://www.youtube.com/watch?v=RJB1Ek2Ko_Y)
